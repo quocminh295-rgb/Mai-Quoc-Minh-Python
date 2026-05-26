@@ -1,3 +1,4 @@
+
 import math
 
 # 1 Ham kiem tra so nguyen to
@@ -89,4 +90,5 @@ print("d Cac so nguyen to strobogrammatic mo rong nho hon 1 trieu")
 print("  ", list_d, "\n")
 
 print(f"e Cac so thoa man Khong strobogrammatic khong nguyen to xoay 180 do ra nguyen to in 20 so dau")
+
 print("  ", list_e[:20], "...")

@@ -1,3 +1,4 @@
+
 def generate_strobogrammatic(n, is_extended=False):
     # Ham de quy xay dung chuoi tu do dai nho len do dai lon
     # current_n: do dai chuoi dang xay dung
@@ -61,4 +62,5 @@ if __name__ == "__main__":
     result_b = generate_strobogrammatic(n, is_extended=True)
     print(f"\n--- b. Cac so strobogrammatic mo rong gom {n} chu so ---")
     print(f"Tong cong co: {len(result_b)} so")
+
     print(result_b)
